@@ -1,0 +1,80 @@
+{
+    "message": {
+        "hello": "Hallo Welt"
+    },
+    "model": {
+        "title": "MODELL",
+        "equation": "GLEICHUNG",
+        "width": "GRÖẞE",
+        "height": "HÖHE",
+        "surface": "OBERFLÄCHENVORSCHAU",
+        "solid": "FEST",
+        "grid": "GITTER",
+        "spacing": "ABSTAND",
+        "thickness": "DICKE",
+        "triangleSize": "DREIECKGRÖßE",
+        "factor": "DIVISOR",
+        "color": "FARBE"
+    },
+    "support": {
+        "title": "STÜTZSTRUKTUREN",
+        "kind": "ART",
+        "cylinders": "ZYLINDER",
+        "rectCuboids": "RECHTECKIGE KUBOIDE",
+        "placement": "PLATZIERUNG",
+        "regular": "REGULÄR",
+        "dynamic": "DYNAMISCH",
+        "spacing": "ABSTAND",
+        "supportHeight": "STÜTZHÖHE",
+        "supportDistance": "STÜTZABSTAND"
+    },
+    "file": {
+        "title": "DATEI",
+        "filename": "DATEINAME",
+        "generateStl": "STL DATEI ERSTELLEN",
+        "printLength": "Ungefähre Druckdauer"
+    },
+    "validationMessages": {
+        "emptyEquation": "Die Gleichung darf nicht leer sein.",
+        "invalidCharacters": "Die Gleichung enthält ungültige Zeichen.",
+        "mismatchedParentheses": "Unpassende Klammern in der Gleichung."
+    },
+    "tooltips": {
+        "equation": "Hier geben Sie die Gleichung für das Modell ein.",
+        "width": "Geben Sie hier die Breite des Modells an.",
+        "height": "Geben Sie hier die Höhe des Modells an.",
+        "surface": "Wählen Sie die Art der Oberfläche für Ihr Modell.",
+        "surfaceSolid": "Wählen Sie dies für eine feste Oberfläche.",
+        "surfaceGrid": "Wählen Sie dies für eine gitterartige Oberfläche.",
+        "gridSpacing": "Stellen Sie hier den Abstand für die Gitteroberfläche ein.",
+        "thickness": "Stellen Sie hier die Dicke des Modells ein.",
+        "kind": "Wählen Sie die Art der Stützstruktur für Ihr Modell.",
+        "placement": "Wählen Sie die Platzierungsstrategie für die Stützstrukturen.",
+        "cylinders": "Wählen Sie diese Option für zylindrische Stützstrukturen.",
+        "rectCuboids": "Wählen Sie diese Option für rechteckige Quader-Stützstrukturen.",
+        "regular": "Wählen Sie dies für eine regelmäßige Platzierung der Stützstrukturen.",
+        "dynamic": "Wählen Sie dies für eine dynamische Platzierung der Stützstrukturen basierend auf den Anforderungen des Modells.",
+        "supportSpacing": "Stellen Sie hier den Abstand zwischen den Stützstrukturen ein.",
+        "filename": "Geben Sie den Namen für die zu generierende Datei ein.",
+        "generateStl": "Klicken Sie hier, um eine STL-Datei Ihres Modells zu erstellen."
+    },
+    "cookies": {
+        "cookieConsentMessagePart1": "Wir verwenden Cookies, um Ihre Erfahrung zu verbessern. Durch den weiteren Besuch dieser Website stimmen Sie unserer Verwendung von ",
+        "cookieConsentMessagePart2": " zu.",
+        "accept": "Akzeptieren",
+        "cookieLabel": "Cookies",
+        "cookiePolicy": {
+            "title": "Cookie-Richtlinie",
+            "content": "Wir verwenden Cookies in unserer Print Gen4Math App, um Ihr Benutzererlebnis zu verbessern. \nCookies sind kleine Datendateien, die auf Ihrem Gerät gespeichert werden und unserer Website helfen, Ihre Präferenzen zu speichern und Informationen über Ihre Interaktionen und die Nutzung unserer App zu sammeln. \nDiese Informationen werden verwendet, um unsere Dienste effizienter und benutzerfreundlicher zu gestalten.\n\n**Arten von Cookies, die wir verwenden:**\n\n1. **Unbedingt notwendige Cookies:** Diese sind für die Grundfunktionalität unserer App erforderlich und können in unseren Systemen nicht ausgeschaltet werden.\n2. **Funktions-Cookies:** Diese werden verwendet, um Sie bei Ihrer Rückkehr zu unserer App zu erkennen und sich an Ihre Präferenzen wie Sprache oder Region zu erinnern.\n\nSie können wählen, ob Sie Cookies akzeptieren oder ablehnen möchten. Das Ablehnen von Cookies kann jedoch verhindern, dass Sie die App vollständig nutzen können.\n\nFür detailliertere Informationen über die von uns verwendeten Cookies und die Zwecke, für die wir sie verwenden, kontaktieren Sie uns bitte unter: studium-deutz@th-koeln.de.",
+            "acceptButton": "Akzeptieren",
+            "declineButton": "Ablehnen"
+        }
+    },
+    "invalidCsvFile": "Ungültige CSV-Datei",
+    "csvFileFormatError": "CSV-Dateiformatfehler: Spalten stimmen nicht überein",
+    "exportAs": "Exportieren als...",
+    "exportAsXml": "Exportieren als XML",
+    "exportAsCsv": "Exportieren als CSV",
+    "importFile": "Datei importieren",
+    "toggleSupportTooltip": "Unterstützungsstrukturen umschalten"
+}

@@ -1,0 +1,80 @@
+{
+    "message": {
+        "hello": "Hello world"
+    },
+    "model": {
+        "title": "MODEL",
+        "equation": "EQUATION",
+        "width": "SIZE",
+        "height": "HEIGHT",
+        "surface": "SURFACE PREVIEW",
+        "solid": "SOLID",
+        "grid": "GRID",
+        "spacing": "SPACING",
+        "thickness": "THICKNESS",
+        "triangleSize": "TRIANGLE SIZE",
+        "factor": "DIVISOR",
+        "color": "COLOR"
+    },
+    "support": {
+        "title": "SUPPORT STRUCTURES",
+        "kind": "KIND",
+        "cylinders": "CYLINDERS",
+        "rectCuboids": "RECT. CUBOIDS",
+        "placement": "PLACEMENT",
+        "regular": "REGULAR",
+        "dynamic": "DYNAMIC",
+        "spacing": "SPACING",
+        "supportHeight": "SUPPORT HEIGHT",
+        "supportDistance": "SUPPORT DISTANCE"
+    },
+    "file": {
+        "title": "FILE",
+        "filename": "FILENAME",
+        "generateStl": "GENERATE STL FILE",
+        "printLength": "Estimated print duration"
+    },
+    "validationMessages": {
+        "emptyEquation": "Equation cannot be empty.",
+        "invalidCharacters": "Equation contains invalid characters.",
+        "mismatchedParentheses": "Mismatched parentheses in the equation."
+    },
+    "tooltips": {
+        "equation": "This is where you enter the equation for the model.",
+        "width": "Specify the width of the model here.",
+        "height": "Specify the height of the model here.",
+        "surface": "Choose the type of surface for your model.",
+        "surfaceSolid": "Select this for a solid surface.",
+        "surfaceGrid": "Select this for a grid-like surface.",
+        "gridSpacing": "Set the spacing for the grid surface here.",
+        "thickness": "Set the thickness of the model here.",
+        "kind": "Choose the type of support structure for your model.",
+        "placement": "Select the placement strategy for the support structures.",
+        "cylinders": "Select this option for cylindrical support structures.",
+        "rectCuboids": "Select this option for rectangular cuboid support structures.",
+        "regular": "Choose this for regular placement of support structures.",
+        "dynamic": "Choose this for dynamic placement of support structures based on model needs.",
+        "supportSpacing": "Set the spacing between support structures here.",
+        "filename": "Enter the name for the file to be generated.",
+        "generateStl": "Click to generate an STL file of your model."
+    },
+    "cookies": {
+        "cookieConsentMessagePart1": "We use cookies to enhance your experience. By continuing to visit this site, you agree to our use of",
+        "cookieConsentMessagePart2": "",
+        "accept": "Accept",
+        "cookieLabel": "cookies",
+        "cookiePolicy": {
+            "title": "Cookie Policy",
+            "content": "We use cookies on our Print Gen4Math app to enhance your user experience.\nCookies are small data files stored on your device that help our website to remember your preferences and collect information about your interactions and usage of our app. \nThis information is used to make our services more efficient and user-friendly.\n\n**Types of Cookies We Use:**\n\n1. **Essential Cookies:** These are necessary for the basic functionality of our app and cannot be switched off in our systems.\n2. **Functional Cookies:** These are used to recognize you when you return to our app, remembering your preferences like language or region.\n\nYou can choose to accept or decline cookies. However, declining cookies may prevent you from taking full advantage of the app.\n\nFor more detailed information on the cookies we use and the purposes for which we use them, please contact us at: studium-deutz@th-koeln.de.",
+            "acceptButton": "Accept",
+            "declineButton": "Decline"
+        }
+    },
+    "invalidCsvFile": "Invalid CSV file",
+    "csvFileFormatError": "CSV file format error: Mismatched columns",
+    "exportAs": "Export As...",
+    "exportAsXml": "Export as XML",
+    "exportAsCsv": "Export as CSV",
+    "importFile": "Import Settings",
+    "toggleSupportTooltip": "Toggle support structures"
+}
